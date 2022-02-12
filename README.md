@@ -1,4 +1,4 @@
-# ProductManagement-SpringBoot-Postgres
+# ProductManagement-SpringBoot-PostgreSQL
 
 Test this project at - https://product-management-springboot.herokuapp.com/
 
